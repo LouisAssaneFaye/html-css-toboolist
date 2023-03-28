@@ -3,3 +3,151 @@
     padding:0;
     box-sizing: border-box;
 }
+
+body{
+    background-color: rgb(224, 219, 219);
+}
+
+h1{
+    display: inline-block;
+    font-size: 45px;
+}
+
+.container{
+    width:80%;
+    margin: auto;
+    
+}
+
+header{
+    padding-bottom: 3.5%;
+    background-color: white;
+    margin-bottom: 40px;
+    height: 80px;
+}
+
+.header-main{
+    background-color: white;
+    margin-bottom: 3px;
+    padding-left: 40px;
+    padding-top: 15px;
+    height: 50px;
+    font-size: 16px;
+}
+
+.body-main{
+    background-color: white;
+    height: 599px;
+    padding-top: 18px;
+    font-size: 20px;
+}
+
+.azure-button{
+    background-color: rgb(78, 160, 242);
+    color: white;
+}
+
+
+
+section{
+    margin-bottom: 15px;
+    padding-left: 33px;
+}
+
+dl{
+    line-height: 40px;
+}
+
+
+
+h2{
+    font-size: 23px;
+}
+
+.green-icon{
+    color: green;
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    border: 1px solid green;
+    font-size: 15px;
+    text-align: center;
+    line-height: 25px ;
+}
+
+.red-icon{
+    color: red;
+    border: 1px solid red ;
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    font-size: 15px;
+    text-align: center;
+    line-height: 25px ;
+}
+
+.white-button{
+    color: grey;
+    border: solid 1px grey;
+    background-color: white;
+    
+}
+
+span{
+    display: inline-block;
+}
+
+.violet-button{
+    background-color: violet;
+    color: white;
+}
+
+.green-button{
+    background-color: green;
+    color: white;
+}
+
+.orange-button{
+    background-color: orange;
+    color: white;
+}
+ .pink-button{
+    background-color: pink;
+    color: white;
+ }
+
+ .lightgreen-button{
+    background-color: lightgreen;
+    color: white;
+ }
+
+ .sized{
+    height: 23px;
+    font-size: 12px;
+    text-align: center;
+    line-height:23px;
+    width:60px ;
+    border-radius: 10px ;
+ }
+
+ .sized1{
+    height: 30px;
+    width: 80px;
+    line-height:30px;
+    text-align: center;
+    border-radius: 6px;
+    font-size: 15px;
+    border: solid 1px rgb(78, 160, 242);
+ }
+
+ .sized2{
+    height: 30px;
+    width: 99px;
+    line-height:30px;
+    text-align: center;
+    border-radius: 6px;
+    font-size: 15px;
+    margin-left: 3px;
+    
+    
+ }
